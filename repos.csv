@@ -1,0 +1,14 @@
+name,publisher,desc,repo-type,docs_desc,type,cat,repo_url
+Vapi AI,Vapi,,whole,,API,AI Tools,https://github.com/VapiAI/docs
+Dify,Dify,,whole,,API,AI Tools,https://github.com/langgenius/dify-docs
+OpenAI Python SDK,OpenAI,"The OpenAI Python library provides convenient access to the OpenAI REST API from any Python 3.8+ application. The library includes type definitions for all request params and response fields, and offers both synchronous and asynchronous clients powered by httpx.",whole,,,,https://github.com/openai/openai-python
+Open AI Cookbook,OpenAI,,whole,,,,https://github.com/openai/openai-cookbook
+OpenAI Node Library,OpenAI,,whole,,,,https://github.com/openai/openai-node
+Notion JS SDK,Notion,,whole,,,,https://github.com/makenotion/notion-sdk-js
+Notion Python SDK,Notion,,whole,,,,https://github.com/ramnes/notion-sdk-py
+Retell AI Python SDK,Retell,,whole,,,,https://github.com/RetellAI/retell-python-sdk
+OpenAI Whisper,OpenAI,,whole,,,,https://github.com/openai/whisper
+Deepgram Python SDK,Python SDK,,whole,,,,https://github.com/deepgram/deepgram-python-sdk
+Deepgram Node SDK,Node SDK,,whole,,,,https://github.com/deepgram/deepgram-js-sdk
+Anthropic Python SDK,Anthropic,,,,,,https://github.com/anthropics/anthropic-sdk-python
+Langchain Docs collection,Langchain,,,,,,https://github.com/langchain-ai/langchain/tree/master/docs

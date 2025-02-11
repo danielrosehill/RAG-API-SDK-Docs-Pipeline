@@ -1,0 +1,18 @@
+{
+    "docs_base": "/home/daniel/Cloned-Repos/Docs/docs",
+    "repos": [
+        "Anthropic Python SDK",
+        "Deepgram Node SDK",
+        "Deepgram Python SDK",
+        "Dify",
+        "Langchain Docs collection",
+        "Notion JS SDK",
+        "Notion Python SDK",
+        "Open AI Cookbook",
+        "OpenAI Node Library",
+        "OpenAI Python SDK",
+        "OpenAI Whisper",
+        "Retell AI Python SDK",
+        "Vapi AI"
+    ]
+}
